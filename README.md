@@ -1,6 +1,6 @@
 # Full-Stack-Open
 
-## Profundización en el desarrollo web moderno
+## Profundizando en el desarrollo web moderno
 
 <img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/983ea18a-a57e-47fa-b2dc-3b52fb2cd15e" class="center" />
 
