@@ -5,4 +5,4 @@ En esta parte, nos familiarizaremos con los aspectos prácticos de realizar el c
 a. [Información general](https://fullstackopen.com/es/part0/general_info)  
 b. [Fundamentos de las aplicaciones web](https://fullstackopen.com/es/part0/fundamentals_of_web_apps)
 
-<img src="https://github.com/jgomez2531/full-stack-open-2022/assets/76822966/2e8310e9-45b8-4583-819d-6aa9667c1abf" class="center" />
+<img src="https://github.com/jgomez2531/full-stack-open-2022/assets/76822966/2e8310e9-45b8-4583-819d-6aa9667c1abf" class="center" width="500" />
