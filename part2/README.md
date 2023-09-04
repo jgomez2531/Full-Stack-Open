@@ -8,4 +8,4 @@ c. [Obteniendo datos del servidor](https://fullstackopen.com/es/part2/getting_da
 d. [Alterando datos en el servidor](https://fullstackopen.com/es/part2/altering_data_in_server)  
 e. [Agregar estilos a la aplicación React](https://fullstackopen.com/es/part2/adding_styles_to_react_app)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/13806957-e741-4620-a180-9e5a531925eb" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/bf07e0e7-2748-4542-9243-10c2781dcf81" class="center" width="800" />
