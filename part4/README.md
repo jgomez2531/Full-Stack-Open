@@ -1,4 +1,4 @@
-# [Part 4 - Pruebas de servidores Express, administración de usuarios](https://fullstackopen.com/es/part4)
+# [Parte 4 - Pruebas de servidores Express, administración de usuarios](https://fullstackopen.com/es/part4)
 
 En esta parte, continuaremos nuestro trabajo en el backend . Nuestro primer tema principal será escribir pruebas de unidad e integración para el backend. Una vez que hayamos cubierto las pruebas, analizaremos la implementación de la autenticación y autorización de usuario.
 
