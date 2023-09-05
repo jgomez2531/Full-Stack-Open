@@ -7,4 +7,4 @@ b. [Implementación de la aplicación de Internet](https://fullstackopen.com/es/
 c. [Guardando dayos en MongoDB](https://fullstackopen.com/es/part3/saving_data_to_mongo_db)  
 d. [Validación y ESLint](https://fullstackopen.com/es/part3/validation_and_es_lint)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/bf07e0e7-2748-4542-9243-10c2781dcf81" class="center" width="800" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/c9783a18-de41-4691-9c17-9de0511a93d2" class="center" width="600" />
