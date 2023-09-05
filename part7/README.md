@@ -9,4 +9,4 @@ d. [Webpack](https://fullstackopen.com/es/part7/webpack)
 e. [Componentes de clases, avrios](https://fullstackopen.com/es/part7/class_components_miscellaneous)  
 f. [Ejercicios: ampliar la lista de blogs](https://fullstackopen.com/es/part7/exercises_extending_the_bloglist)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/aab69d9a-1c83-4384-92e9-0451d03e3fac" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/9ef9e364-5c54-470b-b02d-9f81fcc47479" class="center" width="600" />
