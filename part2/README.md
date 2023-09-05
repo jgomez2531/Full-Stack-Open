@@ -1,4 +1,4 @@
-# [Part 2 - Comunicación con el servidor](https://fullstackopen.com/es/part2)
+# [Parte 2 - Comunicación con el servidor](https://fullstackopen.com/es/part2)
 
 Continuemos nuestra introducción a React. Primero, veremos cómo representar una colección de datos, como una lista de nombres, en la pantalla. Después de esto, inspeccionaremos cómo un usuario puede enviar datos a una aplicación React utilizando formularios HTML. A continuación, nuestro enfoque se centra en ver cómo el código JavaScript en el navegador puede obtener y manejar los datos almacenados en un servidor backend remoto. Por último, echaremos un vistazo rápido a algunas formas sencillas de agregar estilos CSS a nuestras aplicaciones React.
 
@@ -8,4 +8,4 @@ c. [Obteniendo datos del servidor](https://fullstackopen.com/es/part2/getting_da
 d. [Alterando datos en el servidor](https://fullstackopen.com/es/part2/altering_data_in_server)  
 e. [Agregar estilos a la aplicación React](https://fullstackopen.com/es/part2/adding_styles_to_react_app)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/bf07e0e7-2748-4542-9243-10c2781dcf81" class="center" width="800" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/bf07e0e7-2748-4542-9243-10c2781dcf81" class="center" width="600" />
