@@ -1,4 +1,4 @@
-# [Part 3 - Programando un servidor con NodeJS y Express](https://fullstackopen.com/es/part3)
+# [Parte 3 - Programando un servidor con NodeJS y Express](https://fullstackopen.com/es/part3)
 
 En esta parte, nuestro enfoque se desplaza hacia el backend, es decir, hacia la implementación de la funcionalidad en el lado del servidor. Implementaremos una API REST simple en Node.js utilizando la biblioteca Express, y los datos de la aplicación se almacenarán en una base de datos MongoDB. Al final de esta parte, implementaremos nuestra aplicación en Internet.
 
