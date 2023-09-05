@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantarell&display=swap");
+
+* {
+  font-family: "Cantarell", sans-serif;
+}
+
+#new-blog-btn,
+#bloglist {
+  margin-top: 22px;
+}
+
+.blog-details {
+  padding: 4px;
+}
