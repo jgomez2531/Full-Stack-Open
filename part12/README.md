@@ -10,4 +10,4 @@ a. [Introduction to Containers](https://fullstackopen.com/en/part12/introduction
 b. [Building and configuring environments](https://fullstackopen.com/en/part12/building_and_configuring_environments)  
 c. [Basics of Orchestration](https://fullstackopen.com/en/part12/basics_of_orchestration)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/9b2b5459-453f-464e-baf3-a17a9c2e4688" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/e8d7650b-570a-49d6-aa0a-ca2b365e32f5" class="center" width="600" />
