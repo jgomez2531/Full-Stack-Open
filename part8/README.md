@@ -8,4 +8,4 @@ c. [Administración de bases de datos y usuarios](https://fullstackopen.com/es/p
 d. [Iniciar sesión y actualizar la caché](https://fullstackopen.com/es/part8/login_and_updating_the_cache)  
 e. [Fragmentos y suscripciones](https://fullstackopen.com/es/part8/fragments_and_subscriptions)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/9ef9e364-5c54-470b-b02d-9f81fcc47479" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/dec399f6-d4f7-47d3-a2f5-a10a7e767df9" class="center" width="600" />
