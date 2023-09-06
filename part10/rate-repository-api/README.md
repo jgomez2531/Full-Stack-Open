@@ -1,5 +1,3 @@
-![CI](https://github.com/fullstack-hy2020/rate-repository-api/workflows/CI/badge.svg)
-
 # Rate Repository API
 
 This is a GraphQL API for the Rate Repository application.
