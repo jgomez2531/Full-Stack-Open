@@ -1,0 +1,18 @@
+name: Manual Deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akhileshns/heroku-deploy@v3.12.12
+        with:
+          heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+          heroku_app_name: 'fullstackopen-pokedex2002'
+          heroku_email: 's.d.01.2002@gmail.com'
+          healthcheck: 'https://fullstackopen-pokedex2002.herokuapp.com/health'
+          checkstring: 'ok'
+          rollbackonhealthcheckfailed: true

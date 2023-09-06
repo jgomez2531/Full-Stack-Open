@@ -1,0 +1,18 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check the deployed service URL
+        uses: jtalk/url-health-check-action@v1.4
+        with:
+          url: https://fullstackopen-pokedex2002.herokuapp.com/
+          follow-redirect: no
+          max-attempts: 3
+          retry-delay: 5s
