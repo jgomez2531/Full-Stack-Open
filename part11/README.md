@@ -1,4 +1,4 @@
-# [Parte 11 - React Native](https://fullstackopen.com/en/part11)
+# [Parte 11 - CI/CD](https://fullstackopen.com/en/part11)
 
 So you have a fresh feature ready to be shipped. What happens next? Do you upload files to a server manually? How do you manage the version of your product running in the wild? How do you make sure it works, and roll back to a safe version if it doesn’t?
 
@@ -12,4 +12,4 @@ c. [Deployment](https://fullstackopen.com/en/part11/deployment)
 d. [Keeping green](https://fullstackopen.com/en/part11/keeping_green)
 e. [Expanding Further](https://fullstackopen.com/en/part11/expanding_further)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/12b008c3-5f53-4c0c-ae57-781644381694" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/9b2b5459-453f-464e-baf3-a17a9c2e4688" class="center" width="600" />
