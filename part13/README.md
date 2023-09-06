@@ -8,4 +8,4 @@ a. [Using relational databases with Sequelize](https://fullstackopen.com/en/part
 b. [Join tables and queries](https://fullstackopen.com/en/part13/join_tables_and_queries)  
 c. [Migrations, many-to-many relationships](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/9b2b5459-453f-464e-baf3-a17a9c2e4688" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/c58e8d9f-272d-40cb-90f6-15706a27f739" class="center" width="600" />
