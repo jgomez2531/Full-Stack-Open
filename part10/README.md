@@ -7,4 +7,4 @@ b. [Conceptos básicos de React Native](https://fullstackopen.com/es/part10/conc
 c. [Comunicándose con el servidor](https://fullstackopen.com/es/part10/comunicandose_con_el_servidor)  
 d. [Probar y ampliar nuestra aplicación](https://fullstackopen.com/es/part10/probar_y_ampliar_nuestra_aplicacion)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/b3b6d3e8-dddc-4cce-b209-254e7fd644f6" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/12b008c3-5f53-4c0c-ae57-781644381694" class="center" width="600" />
