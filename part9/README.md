@@ -11,4 +11,4 @@ b. [Primeros pasos con TypeScript](https://fullstackopen.com/es/part9/primeros_p
 c. [Escribiendo una aplicación express](https://fullstackopen.com/es/part9/escribiendo_una_aplicacion_express)  
 d. [React con dos tipos](https://fullstackopen.com/es/part9/react_con_tipos)
 
-<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/dec399f6-d4f7-47d3-a2f5-a10a7e767df9" class="center" width="600" />
+<img src="https://github.com/jgomez2531/Full-Stack-Open/assets/76822966/b3b6d3e8-dddc-4cce-b209-254e7fd644f6" class="center" width="600" />
